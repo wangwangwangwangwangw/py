@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary\nStacktrace:\nBacktrace:\n\tGetHandleVerifier [0x0056DCE3+50899]\n\t(No symbol) [0x004FE111]\n\t(No symbol) [0x00405588]\n\t(No symbol) [0x00420AAB]\n\t(No symbol) [0x0041F479]\n\t(No symbol) [0x00451FFE]\n\t(No symbol) [0x00451CEC]\n\t(No symbol) [0x0044B6F6]\n\t(No symbol) [0x00427708]\n\t(No symbol) [0x0042886D]\n\tGetHandleVerifier [0x007D3EAE+2566302]\n\tGetHandleVerifier [0x008092B1+2784417]\n\tGetHandleVerifier [0x0080327C+2759788]\n\tGetHandleVerifier [0x00605740+672048]\n\t(No symbol) [0x00508872]\n\t(No symbol) [0x005041C8]\n\t(No symbol) [0x005042AB]\n\t(No symbol) [0x004F71B7]\n\tBaseThreadInitThunk [0x767A0099+25]\n\tRtlGetAppContainerNamedObjectPath [0x772D7B6E+286]\n\tRtlGetAppContainerNamedObjectPath [0x772D7B3E+238]",
+      "children" : [ {
+        "name" : "test_login[test03-test03-http://115.28.108.130/newecshop/admin/privilege.php]",
+        "uid" : "3a99a32b4c8db574",
+        "parentUid" : "37b3ed1357c7f07bf75affb137046f7f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683882828017,
+          "stop" : 1683882828017,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'http://115.28.108.130/newecshop/admin/privilege.php'", "'test03'", "'test03'" ]
+      }, {
+        "name" : "test_login[test03-test03-http://115.28.108.130/newecshop/admin/index.php]",
+        "uid" : "1ffd6aa34085e731",
+        "parentUid" : "37b3ed1357c7f07bf75affb137046f7f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683882830800,
+          "stop" : 1683882830800,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'http://115.28.108.130/newecshop/admin/index.php'", "'test03'", "'test03'" ]
+      }, {
+        "name" : "test_login[ -test03-None]",
+        "uid" : "e8e5e3d1ddc7f125",
+        "parentUid" : "37b3ed1357c7f07bf75affb137046f7f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683882833389,
+          "stop" : 1683882833389,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "None", "'test03'", "' '" ]
+      } ],
+      "uid" : "37b3ed1357c7f07bf75affb137046f7f"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,43 @@
+[ {
+  "buildOrder" : 27,
+  "reportUrl" : "http://localhost:8080/job/UI/27/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:8080/job/UI/26/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/job/UI/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://localhost:8080/job/UI/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:8080/job/UI/23/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:8080/job/UI/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 3
+  }
+} ]

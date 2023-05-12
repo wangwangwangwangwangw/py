@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "test_esshop",
+      "children" : [ {
+        "name" : "test_login[test03-test03-http://115.28.108.130/newecshop/admin/privilege.php]",
+        "uid" : "3a99a32b4c8db574",
+        "parentUid" : "d9924b8eba4aa62b9898e9505a1a97a1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683882828017,
+          "stop" : 1683882828017,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'http://115.28.108.130/newecshop/admin/privilege.php'", "'test03'", "'test03'" ]
+      }, {
+        "name" : "test_login[test03-test03-http://115.28.108.130/newecshop/admin/index.php]",
+        "uid" : "1ffd6aa34085e731",
+        "parentUid" : "d9924b8eba4aa62b9898e9505a1a97a1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683882830800,
+          "stop" : 1683882830800,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'http://115.28.108.130/newecshop/admin/index.php'", "'test03'", "'test03'" ]
+      }, {
+        "name" : "test_login[ -test03-None]",
+        "uid" : "e8e5e3d1ddc7f125",
+        "parentUid" : "d9924b8eba4aa62b9898e9505a1a97a1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683882833389,
+          "stop" : 1683882833389,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "None", "'test03'", "' '" ]
+      } ],
+      "uid" : "d9924b8eba4aa62b9898e9505a1a97a1"
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}

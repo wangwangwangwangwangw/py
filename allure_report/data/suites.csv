@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri May 12 17:13:50 GMT+08:00 2023","Fri May 12 17:13:50 GMT+08:00 2023","0","testcase","test_esshop","","","","test_login[test03-test03-http://115.28.108.130/newecshop/admin/index.php]",""
+"broken","Fri May 12 17:13:53 GMT+08:00 2023","Fri May 12 17:13:53 GMT+08:00 2023","0","testcase","test_esshop","","","","test_login[ -test03-None]",""
+"broken","Fri May 12 17:13:48 GMT+08:00 2023","Fri May 12 17:13:48 GMT+08:00 2023","0","testcase","test_esshop","","","","test_login[test03-test03-http://115.28.108.130/newecshop/admin/privilege.php]",""

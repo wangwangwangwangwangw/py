@@ -1,0 +1,1 @@
+INFO     root:test_esshop.py:30 日志
